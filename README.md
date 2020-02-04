@@ -3,8 +3,8 @@ El problema de las garrafas consiste en: teniendo dos garrafas con capacidades X
 
 * __Llenar X:__ llena la garrafa X, pasando a contener X litros.
 * __Llenar Y:__ llena la garrafa Y, pasando a contener Y litros.
-* __Vaciar X:__ llena la garrafa X, pasando a contener X litros.
-* __Vaciar Y:__ llena la garrafa Y, pasando a contener Y litros.
+* __Vaciar X:__ vacía la garrafa X, pasando a contener 0 litros.
+* __Vaciar Y:__ vacía la garrafa Y, pasando a contener 0 litros.
 * __Trasvasar de X a Y:__ paso agua de X a Y, hasta que se llena Y o se vacía X.
 * __Trasvasar de Y a X:__ paso agua de Y a X, hasta que se llena X o se vacía Y.
 
